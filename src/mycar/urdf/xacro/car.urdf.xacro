@@ -4,4 +4,6 @@
     <xacro:include filename="car_camera.urdf.xacro" />
     <xacro:include filename="car_laser.urdf.xacro" />
     <xacro:include filename="move.urdf.xacro" />
+    <!-- 雷达仿真的 xacro 文件 -->
+    <xacro:include filename="my_sensors_laser.urdf.xacro" />
 </robot>
